@@ -1,3 +1,3 @@
 # guess-my-number
 
-![How to play ?](your_gif_file.gif)
+![How to play ?](chrome_Z51rFWt72e.gif)
